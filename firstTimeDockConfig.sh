@@ -42,7 +42,7 @@ if [[ -f "$HOME/Library/Logs/prepareDock" ]]; then
 
 fi
 
-dockitems=( "/APplications/Safari.app"
+dockitems=( "/Applications/Safari.app"
             "/Applications/Microsoft Edge.app"
             "/Applications/Microsoft Outlook.app"
             "/Applications/Microsoft Word.app"
